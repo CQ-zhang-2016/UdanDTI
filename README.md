@@ -52,6 +52,10 @@ $ python main.py --data ${dataset} --split "cluster"
 ```
 
 
+## Acknowledgements
+This implementation is inspired and partially based on earlier works [1], [2] and [3].
+
+
 ## References
     [1] Bai P, Miljković F, John B, et al. Interpretable bilinear attention network with domain adaptation improves drug–target prediction[J]. Nature Machine Intelligence, 2023, 5(2): 126-136.
     [2] Huang, Kexin, Cao Xiao, Lucas M. Glass, and Jimeng Sun (2021). MolTrans: Molecular Interaction Transformer for drug–target interaction prediction. Bioinformatics, 37(6), 830-836.
