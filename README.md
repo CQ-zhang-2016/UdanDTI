@@ -39,7 +39,7 @@ In `datasets/protein_features`, you should locate different protein embedding fe
 
 ## Run UdanDTI on Our Data to Reproduce Results
 
-After Installation and downloading the embeddings, you should change the filepath [in this line](https://github.com/CQ-zhang-2016/UdanDTI/blob/1ce0d877bc84d9d7353d9c4c593f9359d8693064/utils.py#L37)
+After Installation and downloading the embeddings, you should change the filepath [in this line](https://github.com/CQ-zhang-2016/UdanDTI/blob/1ce0d877bc84d9d7353d9c4c593f9359d8693064/utils.py#L37).
 
 For the in-domain experiments with vanilla UdanDTI, you can directly run the following command. `${dataset}` could either be `bindingdb`, `biosnap` and `human`. `${split_task}` could be `random`, `cold`, `unseen_drug`, and `unseen_drug`. 
 ```
