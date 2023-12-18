@@ -2,6 +2,7 @@
 All data used in this work are from public resource. You can also find the data sources from [BindingDB](https://github.com/peizhenbai/DrugBAN) [1], [BioSNAP](https://github.com/kexinhuang12345/MolTrans) [2] and [Human](https://github.com/lifanchen-simm/transformerCPI) [3].
 
 [Generated embeddings by ESM](https://cloud.tsinghua.edu.cn/d/aaae2269057f4947b304/).
+
 [Generated embeddings by ProtTrans](https://cloud.tsinghua.edu.cn/d/9e440bf89215424a86dd/).
 
 ## References
